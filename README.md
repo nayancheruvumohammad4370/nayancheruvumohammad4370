@@ -38,10 +38,26 @@ Working across data and analytics initiatives with exposure to Azure Databricks,
 
 <p><img src="https://img.shields.io/badge/FEATURED_PROJECTS-0078D4?style=for-the-badge" alt="Featured Projects" /></p>
 
-### NEXUS BANK · Azure Data Engineering
+### NEXUS BANK · End-to-End Azure Data Engineering & Lakehouse Project
 [**Project Repository**](https://github.com/nayancheruvumohammad4370/NEXUS-BANK-DATA-ENGINEERING)
 
-Ongoing end-to-end project using ADF, ADLS Gen2, Azure Databricks, and PySpark. Implemented metadata-driven Bronze ingestion, incremental transaction ingestion, customer ingestion, and master orchestration. Silver and Gold development is in progress.
+A hands-on banking data engineering project designed around an end-to-end Azure lakehouse architecture, from source ingestion to analytics.
+
+**Target architecture**
+
+`SQL Server` → `Azure Data Factory` → `ADLS Gen2 (Bronze)` → `Azure Databricks + PySpark (Silver)` → `Gold / Business-ready data` → `Power BI`
+
+**Implemented**
+- Metadata-driven Bronze ingestion and master pipeline orchestration.
+- Incremental transaction ingestion using watermark-based processing.
+- Customer data ingestion and pipeline-level validation/orchestration.
+
+**In progress / next stages**
+- Databricks PySpark transformations for data cleansing, standardization, deduplication, and quality checks in Silver.
+- Gold-layer business aggregates and analytics-ready datasets.
+- Databricks workflows/jobs and Power BI reporting.
+
+*Project status: actively developing the complete Bronze–Silver–Gold solution. Only implemented stages are represented as completed.*
 
 ### SQL Server → ADF → ADLS Gen2 Migration
 [**Project Repository**](https://github.com/nayancheruvumohammad4370/SQL-SERVER-ADF-ADLS-MIGRATION)
