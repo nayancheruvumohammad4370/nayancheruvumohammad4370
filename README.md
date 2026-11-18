@@ -1,4 +1,6 @@
-﻿# Mohammad Lala Khan
+![Azure Data Engineer profile banner](assets/profile-banner.svg)
+
+# Mohammad Lala Khan
 
 ### Azure Data Engineer @ Bristlecone | Microsoft Fabric | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 | SQL | Power BI
 
