@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Mohammad Lala Khan — Azure Data Engineer</title>
-  <desc id="desc">A clean professional navy and Azure blue banner highlighting Microsoft Fabric, Azure Databricks, PySpark, ADF, ADLS Gen2, SQL, and Power BI.</desc>
+  <desc id="desc">A professional navy and Azure blue banner highlighting Microsoft Fabric, Azure Databricks, PySpark, ADF, ADLS Gen2, SQL, Power BI, and Generative AI.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071A2F"/>
@@ -28,6 +28,6 @@
   <rect x="58" y="54" width="7" height="190" rx="3.5" fill="url(#accent)"/>
   <text x="96" y="113" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">N. Mohammad Lala Khan</text>
   <text x="98" y="165" fill="#58B9FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Azure Data Engineer @ Bristlecone</text>
-  <text x="100" y="210" fill="#D6E8F7" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="1.2">MICROSOFT FABRIC  •  AZURE DATABRICKS  •  PYSPARK  •  ADF  •  ADLS GEN2  •  SQL  •  POWER BI</text>
+  <text x="100" y="210" fill="#D6E8F7" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing=".9">MICROSOFT FABRIC  •  AZURE DATABRICKS  •  PYSPARK  •  ADF  •  ADLS GEN2  •  SQL  •  POWER BI  •  GEN AI</text>
   <text x="100" y="252" fill="#8CDFF2" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.5">ENGINEERING DATA. ENABLING DECISIONS.</text>
 </svg>
