@@ -1,6 +1,18 @@
 ﻿# Mohammad Lala Khan
 
-### Azure Data Engineer | Bristlecone | Microsoft Fabric | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 | SQL | Power BI
+### Azure Data Engineer @ Bristlecone | Microsoft Fabric | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 | SQL | Power BI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-00A4EF?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/ADLS_Gen2-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2" />
+  <img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
 
 **Building reliable data pipelines. Turning raw data into business-ready insights.**
 
