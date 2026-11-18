@@ -1,18 +1,6 @@
 ![Azure Data Engineer profile banner](assets/profile-banner.svg)
 
-# Mohammad Lala Khan
-
-### Azure Data Engineer @ Bristlecone
-
-**Microsoft Fabric · Azure Databricks · PySpark · Azure Data Factory · ADLS Gen2 · SQL · Power BI**
-
-*Building reliable data pipelines. Turning raw data into business-ready insights.*
-
-Data professional with **4 years of experience** across SQL, Power BI, and analytics, now focused on end-to-end Azure data engineering. I bring a strong BI foundation and practical experience in data ingestion, orchestration, incremental loading, and lakehouse development.
-
-**Current:** Associate Visualization Specialist (Data Engineer) · Bristlecone India Limited  
-**Domain:** Semiconductor Supply Chain · Client: Skyworks Solutions  
-**Previously:** Tata Consultancy Services (TCS)
+Data professional with **4 years of experience** across SQL, Power BI, and analytics, now focused on building end-to-end data engineering solutions across Azure and modern lakehouse platforms.
 
 ---
 
@@ -74,13 +62,3 @@ Power BI dashboards, SQL analysis, Python EDA, Tableau visualizations, and Excel
 - Microsoft Certified: Azure Data Fundamentals · **DP-900**
 - Databricks Fundamentals
 - Generative AI Foundation
-
----
-
-<p><img src="https://img.shields.io/badge/LET%E2%80%99S_CONNECT-0078D4?style=for-the-badge" alt="Let's Connect" /></p>
-
-[LinkedIn](https://www.linkedin.com/in/mrkhan111/) · [Portfolio](https://github.com/nayancheruvumohammad4370/mohammad-lala-khan-portfolio) · [GitHub](https://github.com/nayancheruvumohammad4370) · [Email](mailto:nayancheruvumohammad@gmail.com)
-
----
-
-*Engineering data. Enabling decisions.*
