@@ -2,102 +2,85 @@
 
 # Mohammad Lala Khan
 
-### Azure Data Engineer @ Bristlecone | Microsoft Fabric | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 | SQL | Power BI
+### Azure Data Engineer @ Bristlecone
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/Azure_Databricks-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks" />
-  <img src="https://img.shields.io/badge/PySpark-00A4EF?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/ADLS_Gen2-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2" />
-  <img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+**Microsoft Fabric · Azure Databricks · PySpark · Azure Data Factory · ADLS Gen2 · SQL · Power BI**
 
+*Building reliable data pipelines. Turning raw data into business-ready insights.*
 
-**Building reliable data pipelines. Turning raw data into business-ready insights.**
+Data professional with **4 years of experience** across SQL, Power BI, and analytics, now focused on end-to-end Azure data engineering. I bring a strong BI foundation and practical experience in data ingestion, orchestration, incremental loading, and lakehouse development.
 
-I am a data professional with **4 years of experience** across SQL, Power BI, and analytics, now focused on building end-to-end Azure data engineering solutions. I combine a strong BI foundation with hands-on experience in data ingestion, orchestration, lakehouse concepts, and distributed data processing.
-
-- **Current organization:** Bristlecone India Limited
-- **Current role:** Associate Visualization Specialist (Data Engineer)
-- **Domain:** Semiconductor Supply Chain | Client: Skyworks Solutions
-- **Previous organization:** Tata Consultancy Services (TCS)
-- **Career focus:** Azure Data Engineering, Fabric, Databricks, PySpark, and modern data platforms
+**Current:** Associate Visualization Specialist (Data Engineer) · Bristlecone India Limited  
+**Domain:** Semiconductor Supply Chain · Client: Skyworks Solutions  
+**Previously:** Tata Consultancy Services (TCS)
 
 ---
 
-## Technical Skills
+<p><img src="https://img.shields.io/badge/TECHNICAL_SKILLS-0078D4?style=for-the-badge" alt="Technical Skills" /></p>
 
-| Category | Skills & Technologies |
+| Area | Technologies |
 |---|---|
-| **Cloud & Data Platforms** | Microsoft Azure, Microsoft Fabric, Azure Data Factory (ADF), Azure Data Lake Storage Gen2 (ADLS Gen2), Azure Databricks, Azure Synapse Analytics (exposure) |
-| **Big Data & Processing** | Apache Spark, PySpark, DataFrames, Spark transformations |
-| **Databases & Querying** | SQL, Microsoft SQL Server, MySQL, joins, CTEs, window functions, stored procedures |
-| **Data Engineering** | ETL / ELT, batch ingestion, full and incremental loads, watermark framework, metadata-driven pipelines, parameterization, orchestration, pipeline monitoring, data validation |
-| **Lakehouse & Architecture** | Medallion Architecture (Bronze, Silver, Gold), Delta Lake concepts, data lake, dimensional modelling |
-| **Programming & Analysis** | Python, Pandas, NumPy |
-| **Business Intelligence** | Power BI, DAX, Power Query, data modelling, Star Schema, relationships, Row-Level Security (RLS), KPI dashboards |
-| **Reporting & Visualization** | Tableau, Microsoft Excel, Pivot Tables, data visualization |
-| **Version Control & DevOps** | Git, GitHub, Azure DevOps |
+| **Azure & Data Platforms** | Microsoft Azure, Microsoft Fabric, Azure Data Factory, ADLS Gen2, Azure Databricks |
+| **Data Engineering** | ETL/ELT, batch ingestion, full and incremental loads, watermark framework, metadata-driven pipelines, orchestration, monitoring, validation |
+| **Big Data & Programming** | PySpark, Apache Spark, Python, Pandas, NumPy |
+| **Databases** | SQL, SQL Server, MySQL, joins, CTEs, window functions, stored procedures |
+| **Lakehouse & Modelling** | Bronze/Silver/Gold architecture, Delta Lake concepts, dimensional modelling, Star Schema |
+| **BI & Visualization** | Power BI, DAX, Power Query, Tableau, Excel, KPI dashboards, RLS |
+| **Tools** | Git, GitHub, Azure DevOps |
 
-## Professional Experience
+---
+
+<p><img src="https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-0078D4?style=for-the-badge" alt="Professional Experience" /></p>
 
 ### Bristlecone India Limited
-**Associate Visualization Specialist (Data Engineer)** | *June 2026 â€“ Present*  
-**Client:** Skyworks Solutions | **Domain:** Semiconductor Supply Chain
+**Associate Visualization Specialist (Data Engineer)** · *June 2026 – Present*  
+Client: **Skyworks Solutions** · Semiconductor Supply Chain
 
-Working across data and analytics initiatives with exposure to modern data platforms and engineering technologies, including Azure Databricks, Microsoft Fabric, PySpark, Azure Data Factory, SQL, and Power BI.
+Working across data and analytics initiatives with exposure to Azure Databricks, Microsoft Fabric, PySpark, Azure Data Factory, SQL, and Power BI.
 
 ### Tata Consultancy Services (TCS)
-**Data Analytics, SQL & Power BI** | *April 2022 â€“ March 2026*
+**Data Analytics · SQL · Power BI** · *April 2022 – March 2026*
 
-- **GE Healthcare** | *April 2022 â€“ March 2023*  
-  Worked with SQL, Power BI, and reporting solutions for KPI and asset-utilization analysis. Experience included SQL Server, Oracle, Excel, Power Query, DAX, data modelling, and Power BI Service.
-
-- **Tata Play** | *April 2023 â€“ March 2026*  
-  Worked on subscriber, revenue, and churn analytics. Built and enhanced Power BI semantic models and reports using SQL, DAX, Power Query, Star Schema concepts, drill-through, bookmarks, slicers, and Row-Level Security.
-
----
-
-## Featured Data Engineering Projects
-
-### 1. NEXUS BANK â€” Azure Data Engineering & Medallion Architecture
-[**Explore the project repository â†’**](https://github.com/nayancheruvumohammad4370/NEXUS-BANK-DATA-ENGINEERING)
-
-An ongoing hands-on data engineering project using Azure Data Factory, ADLS Gen2, Azure Databricks, and PySpark. Current implementation includes metadata-driven Bronze ingestion, incremental transaction ingestion, customer ingestion, and master pipeline orchestration. Silver and Gold layer development is ongoing.
-
-### 2. SQL Server â†’ Azure Data Factory â†’ ADLS Gen2
-[**Explore the migration project â†’**](https://github.com/nayancheruvumohammad4370/SQL-SERVER-ADF-ADLS-MIGRATION)
-
-A practical source-to-cloud migration using local SQL Server, Self-hosted Integration Runtime, Azure Data Factory, and ADLS Gen2. Implemented a 10,000-row DimCustomer full load to the Bronze layer in Parquet, with watermark-based incremental loading and stored-procedure integration.
-
-### 3. BI, SQL & Python Analytics
-[**Explore all repositories â†’**](https://github.com/nayancheruvumohammad4370?tab=repositories)
-
-Additional projects cover Power BI dashboards, SQL analysis, Python-based exploratory data analysis, Tableau visualizations, Excel analytics, and data storytelling.
+- **GE Healthcare** · *April 2022 – March 2023*  
+  Developed SQL and Power BI reporting for KPI and asset-utilization analysis, using SQL Server, Oracle, Excel, Power Query, and DAX.
+- **Tata Play** · *April 2023 – March 2026*  
+  Supported subscriber, revenue, and churn analytics; built Power BI semantic models and reports using SQL, DAX, Power Query, Star Schema, drill-through, and Row-Level Security.
 
 ---
 
-## Certifications
+<p><img src="https://img.shields.io/badge/FEATURED_PROJECTS-0078D4?style=for-the-badge" alt="Featured Projects" /></p>
 
-- **Microsoft Certified: Power BI Data Analyst Associate** â€” PL-300
-- **Microsoft Certified: Fabric Data Engineer Associate** â€” DP-700
-- **Microsoft Certified: Azure Data Fundamentals** â€” DP-900
-- **Databricks Fundamentals**
-- **Generative Artificial Intelligence (AI)** â€” Foundation
+### NEXUS BANK · Azure Data Engineering
+[**Project Repository**](https://github.com/nayancheruvumohammad4370/NEXUS-BANK-DATA-ENGINEERING)
+
+Ongoing end-to-end project using ADF, ADLS Gen2, Azure Databricks, and PySpark. Implemented metadata-driven Bronze ingestion, incremental transaction ingestion, customer ingestion, and master orchestration. Silver and Gold development is in progress.
+
+### SQL Server → ADF → ADLS Gen2 Migration
+[**Project Repository**](https://github.com/nayancheruvumohammad4370/SQL-SERVER-ADF-ADLS-MIGRATION)
+
+Implemented a 10,000-row DimCustomer full load from local SQL Server to ADLS Gen2 Bronze in Parquet using Self-hosted Integration Runtime and ADF, with watermark-based incremental loading and stored-procedure integration.
+
+### BI, SQL & Python Analytics
+[**Explore all repositories**](https://github.com/nayancheruvumohammad4370?tab=repositories)
+
+Power BI dashboards, SQL analysis, Python EDA, Tableau visualizations, and Excel analytics.
 
 ---
 
-## Let's Connect
+<p><img src="https://img.shields.io/badge/CERTIFICATIONS-0078D4?style=for-the-badge" alt="Certifications" /></p>
 
-- **LinkedIn:** [linkedin.com/in/mrkhan111](https://www.linkedin.com/in/mrkhan111/)
-- **Portfolio:** [View my portfolio repository](https://github.com/nayancheruvumohammad4370/mohammad-lala-khan-portfolio)
-- **GitHub:** [@nayancheruvumohammad4370](https://github.com/nayancheruvumohammad4370)
-- **Email:** [nayancheruvumohammad@gmail.com](mailto:nayancheruvumohammad@gmail.com)
+- Microsoft Certified: Power BI Data Analyst Associate · **PL-300**
+- Microsoft Certified: Fabric Data Engineer Associate · **DP-700**
+- Microsoft Certified: Azure Data Fundamentals · **DP-900**
+- Databricks Fundamentals
+- Generative AI Foundation
+
+---
+
+<p><img src="https://img.shields.io/badge/LET%E2%80%99S_CONNECT-0078D4?style=for-the-badge" alt="Let's Connect" /></p>
+
+[LinkedIn](https://www.linkedin.com/in/mrkhan111/) · [Portfolio](https://github.com/nayancheruvumohammad4370/mohammad-lala-khan-portfolio) · [GitHub](https://github.com/nayancheruvumohammad4370) · [Email](mailto:nayancheruvumohammad@gmail.com)
 
 ---
 
 *Engineering data. Enabling decisions.*
-
