@@ -1,4 +1,4 @@
-# Mohammad Lala Khan
+﻿# Mohammad Lala Khan
 
 ### Azure Data Engineer | Bristlecone | Microsoft Fabric | Azure Databricks | PySpark | Azure Data Factory | ADLS Gen2 | SQL | Power BI
 
@@ -31,36 +31,36 @@ I am a data professional with **4 years of experience** across SQL, Power BI, an
 ## Professional Experience
 
 ### Bristlecone India Limited
-**Associate Visualization Specialist (Data Engineer)** | *June 2026 – Present*  
+**Associate Visualization Specialist (Data Engineer)** | *June 2026 â€“ Present*  
 **Client:** Skyworks Solutions | **Domain:** Semiconductor Supply Chain
 
 Working across data and analytics initiatives with exposure to modern data platforms and engineering technologies, including Azure Databricks, Microsoft Fabric, PySpark, Azure Data Factory, SQL, and Power BI.
 
 ### Tata Consultancy Services (TCS)
-**Data Analytics, SQL & Power BI** | *April 2022 – March 2026*
+**Data Analytics, SQL & Power BI** | *April 2022 â€“ March 2026*
 
-- **GE Healthcare** | *April 2022 – March 2023*  
+- **GE Healthcare** | *April 2022 â€“ March 2023*  
   Worked with SQL, Power BI, and reporting solutions for KPI and asset-utilization analysis. Experience included SQL Server, Oracle, Excel, Power Query, DAX, data modelling, and Power BI Service.
 
-- **Tata Play** | *April 2023 – March 2026*  
+- **Tata Play** | *April 2023 â€“ March 2026*  
   Worked on subscriber, revenue, and churn analytics. Built and enhanced Power BI semantic models and reports using SQL, DAX, Power Query, Star Schema concepts, drill-through, bookmarks, slicers, and Row-Level Security.
 
 ---
 
 ## Featured Data Engineering Projects
 
-### 1. NEXUS BANK — Azure Data Engineering & Medallion Architecture
-[**Explore the project repository →**](https://github.com/nayancheruvumohammad4370/NEXUS-BANK-DATA-ENGINEERING)
+### 1. NEXUS BANK â€” Azure Data Engineering & Medallion Architecture
+[**Explore the project repository â†’**](https://github.com/nayancheruvumohammad4370/NEXUS-BANK-DATA-ENGINEERING)
 
 An ongoing hands-on data engineering project using Azure Data Factory, ADLS Gen2, Azure Databricks, and PySpark. Current implementation includes metadata-driven Bronze ingestion, incremental transaction ingestion, customer ingestion, and master pipeline orchestration. Silver and Gold layer development is ongoing.
 
-### 2. SQL Server → Azure Data Factory → ADLS Gen2
-[**Explore the migration project →**](https://github.com/nayancheruvumohammad4370/SQL-SERVER-ADF-ADLS-MIGRATION)
+### 2. SQL Server â†’ Azure Data Factory â†’ ADLS Gen2
+[**Explore the migration project â†’**](https://github.com/nayancheruvumohammad4370/SQL-SERVER-ADF-ADLS-MIGRATION)
 
 A practical source-to-cloud migration using local SQL Server, Self-hosted Integration Runtime, Azure Data Factory, and ADLS Gen2. Implemented a 10,000-row DimCustomer full load to the Bronze layer in Parquet, with watermark-based incremental loading and stored-procedure integration.
 
 ### 3. BI, SQL & Python Analytics
-[**Explore all repositories →**](https://github.com/nayancheruvumohammad4370?tab=repositories)
+[**Explore all repositories â†’**](https://github.com/nayancheruvumohammad4370?tab=repositories)
 
 Additional projects cover Power BI dashboards, SQL analysis, Python-based exploratory data analysis, Tableau visualizations, Excel analytics, and data storytelling.
 
@@ -68,11 +68,11 @@ Additional projects cover Power BI dashboards, SQL analysis, Python-based explor
 
 ## Certifications
 
-- **Microsoft Certified: Power BI Data Analyst Associate** — PL-300
-- **Microsoft Certified: Fabric Data Engineer Associate** — DP-700
-- **Microsoft Certified: Azure Data Fundamentals** — DP-900
+- **Microsoft Certified: Power BI Data Analyst Associate** â€” PL-300
+- **Microsoft Certified: Fabric Data Engineer Associate** â€” DP-700
+- **Microsoft Certified: Azure Data Fundamentals** â€” DP-900
 - **Databricks Fundamentals**
-- **Generative Artificial Intelligence (AI)** — Foundation
+- **Generative Artificial Intelligence (AI)** â€” Foundation
 
 ---
 
@@ -86,3 +86,4 @@ Additional projects cover Power BI dashboards, SQL analysis, Python-based explor
 ---
 
 *Engineering data. Enabling decisions.*
+
