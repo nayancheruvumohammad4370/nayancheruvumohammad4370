@@ -1,6 +1,6 @@
 ![Azure Data Engineer profile banner](assets/profile-banner.svg)
 
-Data professional with **4 years of experience** across SQL, Power BI, and analytics, now focused on building end-to-end data engineering solutions across Azure and modern lakehouse platforms.
+Data professional with **4+ years of experience** across SQL, Power BI, and analytics, now focused on building end-to-end data engineering solutions across Azure and modern lakehouse platforms.
 
 ---
 
@@ -29,7 +29,7 @@ Working across data and analytics initiatives with exposure to Azure Databricks,
 ### Tata Consultancy Services (TCS)
 **Data Analytics · SQL · Power BI** · *April 2022 – March 2026*
 
-- **GE Healthcare** · *April 2022 – March 2023*  
+- **GE Healthcare** · *March 2022 – March 2023*  
   Developed SQL and Power BI reporting for KPI and asset-utilization analysis, using SQL Server, Oracle, Excel, Power Query, and DAX.
 - **Tata Play** · *April 2023 – March 2026*  
   Supported subscriber, revenue, and churn analytics; built Power BI semantic models and reports using SQL, DAX, Power Query, Star Schema, drill-through, and Row-Level Security.
